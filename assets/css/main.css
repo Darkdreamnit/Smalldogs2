@@ -1538,6 +1538,15 @@ img {
 			margin: 0 0 .5em 0;
 		}
 
+
+		.image.featured2 {
+			display: block;
+			
+			margin: 0 0 .5em 0;
+			align-content: center;
+		}
+		
+
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1.5em 0;
